@@ -1,0 +1,62 @@
+*{margin: 0; padding: 0;}
+
+
+body{background-color: darkseagreen;}
+
+.level1{position: relative;}
+
+.level2 img{height: 500px; width: 800px; position: absolute; top: 84px; left: 40px; border-radius: 20px;}
+
+.level3 h1{position: absolute; top:127px; left: 383px; font-size: 80px; color: #01211a;     font-family: 'Pacifico', cursive;
+
+}
+
+.level4 p{position: absolute; top: 401px; left: 66px; font-size: 27px; font-family: 'Pacifico', cursive; color: #01211a;}
+
+.level5{background-color: rgba(207, 59, 212, 0.48); height: 400px; width: 300px; position: absolute; top: 140px; left: 946px; border-radius: 20px;}
+
+.level6 input{position: absolute; top: 200px; left: 956px; font-size: 27px; border-radius: 5px;}
+
+
+.level7 input{position: absolute; top: 280px; left: 956px; font-size: 27px; border-radius: 5px;}
+
+.level8 button{position: absolute; top: 360px; left: 954px; font-size: 27px; width: 285px;}
+
+.level9 a{position: absolute; top: 403px; left: 1011px; font-size: 20px; }
+
+.level10 button{position: absolute; top: 450; left: 1010px; font-size: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
